@@ -49,9 +49,9 @@ A lo largo del desarrollo, se trabajó paso a paso en la implementación, comuni
 
 ---
 
-## Enlace al Repositorio
+## Enlace del repositorio de sistema-educativo-config
 
-🔗 [https://github.com/tu-repositorio-aquí](https://github.com/tu-repositorio-aquí)
+🔗 https://github.com/Felipe-Santander/sistema-educativo-config.git
 
 ---
 
